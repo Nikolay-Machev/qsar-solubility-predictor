@@ -29,4 +29,8 @@ This project predicts the aqueous solubility of molecules from SMILES strings us
 
 ## 🚀 How to Run Locally
 
-1. Clone the repository:
+```bash
+git clone https://github.com/Nikolay-Machev/qsar-solubility-predictor.git
+cd qsar-solubility-predictor
+pip install -r requirements.txt
+jupyter notebook qsar_model.ipynb
