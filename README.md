@@ -1,5 +1,5 @@
 # qsar-solubility-predictor
-Predicts molecular solubility from SMILES using RDKit descriptors and an XGBoost model.
+Predicts molecular solubility from SMILES using 208 RDKit descriptors and an XGBoost model, trained on the ESOL (Delaney) aqueous solubility dataset of 1,128 small molecules.
 # 🧪 QSAR Solubility Predictor using RDKit & XGBoost
 
 This project predicts the aqueous solubility of molecules from SMILES strings using a machine learning model trained on 200+ molecular descriptors generated with RDKit.
