@@ -1,4 +1,4 @@
-# qsar-solubility-predictor
+# Qsar-Solubility-Predictor
 Predicts molecular solubility from SMILES using 208 RDKit descriptors and an XGBoost model, trained on the ESOL (Delaney) aqueous solubility dataset of 1,128 small molecules.
 # 🧪 QSAR Solubility Predictor using RDKit & XGBoost
 
